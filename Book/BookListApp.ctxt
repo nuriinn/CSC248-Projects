@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BookListApp
+comment1.params=
+comment1.target=void\ menu()
+comment2.params=list
+comment2.target=void\ addRecord(ArrayList)
+comment3.params=list
+comment3.target=Book\ searchByTitle(ArrayList)
+comment4.params=list
+comment4.target=Book\ searchBySubject(ArrayList)
+comment5.params=list
+comment5.target=void\ displayAll(ArrayList)
+comment6.params=list
+comment6.target=Book\ deleteByTitle(ArrayList)
+comment7.params=list
+comment7.target=void\ updateQuantity(ArrayList)
+comment8.params=list
+comment8.target=void\ updatePrice(ArrayList)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
