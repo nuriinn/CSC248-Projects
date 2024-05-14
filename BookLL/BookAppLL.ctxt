@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BookAppLL
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ retrieveData(LinkedList)
+comment3.params=list
+comment3.target=void\ printAll(LinkedList)
+comment4.params=list
+comment4.target=void\ updatePriceBySubject(LinkedList)
+comment5.params=list
+comment5.target=void\ calcTotalPriceBySubject(LinkedList)
+comment6.params=list
+comment6.target=void\ displayMaxAndMinBySubject(LinkedList)
+comment7.params=list
+comment7.target=void\ displayInfoBySubject(LinkedList)
+comment8.params=list
+comment8.target=void\ displayInfoByTitle(LinkedList)
+comment9.params=list
+comment9.target=void\ displayFirstAndLastBooks(LinkedList)
+numComments=10
