@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CarModel
+comment1.params=
+comment1.target=CarModel()
+comment2.params=
+comment2.target=int\ getCubicCapacity()
+numComments=3
