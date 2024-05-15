@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QueueBookApp
+comment1.params=bookList
+comment1.target=void\ enterRecord(Queue)
+comment2.params=bookList
+comment2.target=void\ displayRecord(Queue)
+comment3.params=bookList
+comment3.target=void\ searchRecord(Queue)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
