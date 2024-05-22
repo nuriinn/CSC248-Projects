@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Medicine
+comment1.params=medType\ medCode\ qty\ patientName\ patientAge\ patientID\ patientPhoneNumber
+comment1.target=Medicine(int,\ java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=double\ calculatePrice()
+comment2.params=
+comment2.target=int\ getMedType()
+comment3.params=
+comment3.target=java.lang.String\ getMedCode()
+comment4.params=
+comment4.target=int\ getQty()
+comment5.params=
+comment5.target=Patient\ getPatient()
+comment6.params=getMedType
+comment6.target=void\ setMedType(int)
+comment7.params=medCode
+comment7.target=void\ setMedCode(java.lang.String)
+comment8.params=qty
+comment8.target=void\ setQty(int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
