@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Patient
+comment1.params=patientName\ patientAge\ patientID\ patientPhoneNumber
+comment1.target=Patient(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getPatientName()
+comment3.params=
+comment3.target=int\ getPatientAge()
+comment4.params=
+comment4.target=java.lang.String\ getPatientID()
+comment5.params=
+comment5.target=java.lang.String\ getPatientPhoneNumber()
+comment6.params=patientName
+comment6.target=void\ setPatientName(java.lang.String)
+comment7.params=patientAge
+comment7.target=void\ setPatientAge(int)
+comment8.params=patientID
+comment8.target=void\ setPatientID(java.lang.String)
+comment9.params=patientPhoneNumber
+comment9.target=void\ setPatientPhoneNumber(java.lang.String)
+numComments=11
